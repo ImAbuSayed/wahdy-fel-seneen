@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي في ليالي الشوق ناديت
+> من زمان في عيونك انا حبيت
+> نار الحب في قلبي بتناديك
+> روحي وعمري كله بين ايديك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
