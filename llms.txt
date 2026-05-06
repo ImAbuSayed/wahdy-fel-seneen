@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wahdy-fel-seneen/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Wahdy Fel Seneen](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Wahdy Fel Seneen](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
